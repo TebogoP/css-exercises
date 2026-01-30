@@ -3,3 +3,7 @@
     background: #000;
     color: hsl(0, 0%, 100%);
 }
+#second {
+    background: rgb(255, 255, 0);
+    color: hsl(0, 0%, 0%);
+}
