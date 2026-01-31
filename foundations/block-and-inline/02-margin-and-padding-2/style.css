@@ -12,15 +12,17 @@ body {
 
 .title {
   background: #e3f4ff;
-  padding: 16px;
+  padding: 10px;
 }
 
 .content {
   background: #e3f4ff;
+  padding: 10px;
 }
 
 .button-container {
   background: #e3f4ff;
+
 }
 
 button {
