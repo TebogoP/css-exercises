@@ -53,3 +53,9 @@ ul {
   display:flex;
   gap:12px;
 }
+.header-right, .header-left{
+  display: flex;
+  align-items: center;
+  gap:10px;
+}
+
