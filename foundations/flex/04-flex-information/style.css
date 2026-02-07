@@ -32,6 +32,7 @@ img {
 .container{
   display: flex;
   flex-basis: 200px;
+  flex-direction: column;
 }
 .container img{
   align-self: center;
