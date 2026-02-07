@@ -79,4 +79,8 @@ button.cancel {
 .continue, .cancel, .text{
   margin-top: 12px;
 }
+.header-close-button{
+  display: flex;
+  justify-content: space-between;
+}
 
