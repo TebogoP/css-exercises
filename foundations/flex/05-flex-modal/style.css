@@ -83,4 +83,7 @@ button.cancel {
   display: flex;
   justify-content: space-between;
 }
+.close-button{
+  flex-shrink: 0;
+}
 
