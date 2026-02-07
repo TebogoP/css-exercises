@@ -58,4 +58,6 @@ ul {
   align-items: center;
   gap:10px;
 }
-
+.notifications, .profile-image{
+  flex-shrink: 0;
+}
